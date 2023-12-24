@@ -1,8 +1,9 @@
 # expense_tracker
 
-** The project tracks expenses by using a timestamp.
+** The project tracks expenses by using a timestamp.**
 
 **How to Run the Code**
+
   Follow these steps to execute the code.
 
  **1. Clone this Repository:**
